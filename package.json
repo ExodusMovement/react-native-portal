@@ -1,6 +1,6 @@
 {
-  "name": "@gorhom/portal",
-  "version": "1.0.14",
+  "name": "@exodus/gorhom-portal",
+  "version": "1.0.14-exodus.0",
   "description": "A simplified portal implementation for ⭕️ React Native ⭕️",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -20,13 +20,13 @@
     "android",
     "portal"
   ],
-  "repository": "https://github.com/gorhom/react-native-portal",
+  "repository": "https://github.com/ExodusMovement/react-native-portal",
   "author": "Mo Gorhom (https://gorhom.dev)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gorhom/react-native-portal/issues"
+    "url": "https://github.com/ExodusMovement/react-native-portal/issues"
   },
-  "homepage": "https://github.com/gorhom/react-native-portal#readme",
+  "homepage": "https://github.com/ExodusMovement/react-native-portal#readme",
   "scripts": {
     "test": "jest",
     "typescript": "tsc --noEmit",
