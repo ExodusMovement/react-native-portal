@@ -9,7 +9,8 @@
   "source": "src/index",
   "files": [
     "src",
-    "lib"
+    "lib",
+    "!**/*.map"
   ],
   "keywords": [
     "expo",
