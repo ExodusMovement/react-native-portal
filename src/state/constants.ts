@@ -5,6 +5,6 @@ enum ACTIONS {
   REMOVE_PORTAL,
 }
 
-const INITIAL_STATE = {};
+const INITIAL_STATE = Object.create(null);
 
 export { ACTIONS, INITIAL_STATE };
